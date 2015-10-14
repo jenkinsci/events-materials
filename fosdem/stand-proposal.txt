@@ -1,0 +1,38 @@
+Project Name: Jenkins
+
+Stand description:
+
+Historically the Jenkins stand is manned by about 3-8 community members
+throughout the weekend who use the opportunity to meet with users who already
+knew about us (and give them stickers!), talk about how the project works/where
+it's going, and demonstrate Jenkins to people who never knew about it.
+
+We would very likely be doing much more of the same this time around if
+accepted, demonstrating Jenkins to new-comers as well as meeting
+users/developers who are interested in meeting some of the faces "behind the
+project."
+
+
+Project URLs:
+
+    <https://jenkins-ci.org>
+    <https://github.com/jenkinsci>
+
+
+Why should FOSDEM accept this proposal?:
+
+Besides the usefulness of Jenkins, the two best parts about the project are the
+underlying transparency/openness and pragmatism. FOSDEM has become an annual
+tradition for the Jenkins developers in Europe, giving us the chance to
+interact with hundreds (if not thousands) of friendly users with positive and
+negative feedback. Because we've got so many european contributors, the Jenkins
+stand is almost always multilingual with conversations about the project in
+english, french, german and dutch happening with interested people.
+
+
+Overall the experience, and the vibe is fantastic at FOSDEM and I think the
+Jenkins group brings a friendliness and enthusiasm for open source (and
+automation) that helps make FOSDEM a stellar event.
+
+
+We look forward to participating in FOSDEM 2015 one way or the other!
