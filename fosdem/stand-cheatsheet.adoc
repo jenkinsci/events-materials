@@ -11,10 +11,14 @@ don't break it!
 
 === Available Demos
 
-There are a number of Docker containers available and pre-configured with demonstration jobs on the laptop. Each of these should be linked from within the Chrome browser's bookmarks bar.
+There are a number of Docker containers available and pre-configured with
+demonstration jobs on the laptop. Each of these should be linked from within
+the Chrome browser's bookmarks bar.
 
 * *PHP:* Using an example from link:http://jenkins-php.org[jenkins-php.org]
 * *Pipeline:* A couple of example jobs using the link:https://wiki.jenkins-ci.org/display/JENKINS/Workflow+Plugin[Pipeline plugin] to implement a few projects
+* *Python:* A couple example jobs using the plugins suggested on link:https://jenkins-ci.org/s/python[jenkins-ci.org/s/python]
+* *Jenkins 2.0:* A locally running Jenkins 2.0 build on the Mac itself (not containerized)
 
 There is of course always link:https://ci.jenkins-ci.org[ci.jenkins-ci.org] which is a good real-live demo of Jenkins to talk about.
 
@@ -23,6 +27,11 @@ There is of course always link:https://ci.jenkins-ci.org[ci.jenkins-ci.org] whic
 - [ ] Click the "Docker Quickstart Terminal" in the Dock
 - [ ] In the terminal that comes up, execute: `cd demos && ./run_demos`
 - [ ] Navigate to one of the demo Jenkins instances bookmarked in Chrome, e.g. "Demo - PHP"
+
+
+Running the "Jenkins 2.0" demo, which only really can be used to show off the
+setup wizard, can be done with the `demos/run_jenkins2` script, which will
+create a fresh `JENKINS_HOME` for each execution.
 
 === Logging in
 
@@ -58,12 +67,12 @@ We have a number of different kinds of stickers, the names are:
 * Angry Jenkins (fiery red logo)
 * Ninja Jenkins
 * General Jenkins (Jenkins in a military outfit)
-* Cute Jenkins (Jenkins in make a Anime-style "whoops" face)
+* Cute Jenkins (Jenkins making a Anime-style "whoops" face)
 * Superhero Jenkins
 
 === Pins
 
-We have two kinds of pins for general give-away: 
+We have two kinds of pins for general give-away:
 
 . Jenkins on blue background
 . Angry Jenkins on red background
@@ -72,15 +81,22 @@ The pins with flags on them are for contributors and JAM organizers.
 
 === Postcard
 
-The postcard printed should be given to everybody that receives or takes a sticker and/or pin.
+The postcard printed should be given to everybody that receives or takes a
+sticker and/or pin.
 
-On the front of the postcard are quick links to "solution pages" which contain links to plugins, articles, presentations and other documentation for using Jenkins on that platform/toolchain.
+On the front of the postcard are quick links to "solution pages" which contain
+links to plugins, articles, presentations and other documentation for using
+Jenkins on that platform/toolchain.
 
-On the back of the postcard is a current map for regional Jenkins Area Meetups, a live version of this map can be shown/found at link:https://meetup.com/pro/jenkins[meetup.com/pro/jenkins].
+On the back of the postcard is a current map for regional Jenkins Area
+Meetups. A live version of this map can be shown/found at
+link:https://www.meetup.com/pro/jenkins[meetup.com/pro/jenkins].
 
 
 == Merchandise
 
 === T-Shirts
 
-T-shirts are *not free* but are to be sold, all proceeds go directly to the Jenkins project, which is affiliated with Software in the Public Interest (link:http://spi-inc.org[spi-inc.org]) a 501(c)3 non-profit organization.
+T-shirts are *not free* but are to be sold, all proceeds go directly to the
+Jenkins project, which is affiliated with Software in the Public Interest
+(link:http://spi-inc.org[spi-inc.org]) a 501(c)3 non-profit organization.
