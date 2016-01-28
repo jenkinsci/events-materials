@@ -1,0 +1,86 @@
+= Jenkins Stand Cheatsheet
+
+This document is intended to serve as a reference for Jenkins contributors
+helping to staff the stand at link:https://fosdem.org[FOSDEM].
+
+== Demo Laptop
+
+The demo Mac OS X is owned by link:https://www.cloudbees.com[CloudBees].
+link:https://github.com/rtyler[R. Tyler Croy] is responsible for the laptop, so
+don't break it!
+
+=== Available Demos
+
+There are a number of Docker containers available and pre-configured with demonstration jobs on the laptop. Each of these should be linked from within the Chrome browser's bookmarks bar.
+
+* *PHP:* Using an example from link:http://jenkins-php.org[jenkins-php.org]
+* *Pipeline:* A couple of example jobs using the link:https://wiki.jenkins-ci.org/display/JENKINS/Workflow+Plugin[Pipeline plugin] to implement a few projects
+
+There is of course always link:https://ci.jenkins-ci.org[ci.jenkins-ci.org] which is a good real-live demo of Jenkins to talk about.
+
+==== Running demos
+
+- [ ] Click the "Docker Quickstart Terminal" in the Dock
+- [ ] In the terminal that comes up, execute: `cd demos && ./run_demos`
+- [ ] Navigate to one of the demo Jenkins instances bookmarked in Chrome, e.g. "Demo - PHP"
+
+=== Logging in
+
+The primary user account is named "mrjenkins" and the password for this user is
+"jenkins!".
+
+=== Troubleshooting
+
+==== Networking is broken in Docker containers
+
+`boot2docker` doesn't appear to switch networks properly on Mac OS X. If
+Jenkins running inside a Docker container cannot reach the internet follow
+these steps:
+
+- [ ] Can the Mac reach the internet in Chrome; if it cannot, the fix that
+  first.
+- [ ] Stop all containers (using the `stop_all_containers` script in the
+  `demos/` directory
+- [ ] Open VirtualBox application (in the Dock)
+- [ ] Power off the `default` virtual machine (*⌘F*); quit VirtualBox
+- [ ] Close all terminals and re-open "Docker Quickstart Terminal (in the
+  Docker). This will properly restart the intermediate virtual machine.
+- [ ] Restart the demo containers with: `cd demos && ./run_demos`
+
+
+== Swag
+
+=== Stickers
+
+We have a number of different kinds of stickers, the names are:
+
+* Jenkins (traditional logo)
+* Angry Jenkins (fiery red logo)
+* Ninja Jenkins
+* General Jenkins (Jenkins in a military outfit)
+* Cute Jenkins (Jenkins in make a Anime-style "whoops" face)
+* Superhero Jenkins
+
+=== Pins
+
+We have two kinds of pins for general give-away: 
+
+. Jenkins on blue background
+. Angry Jenkins on red background
+
+The pins with flags on them are for contributors and JAM organizers.
+
+=== Postcard
+
+The postcard printed should be given to everybody that receives or takes a sticker and/or pin.
+
+On the front of the postcard are quick links to "solution pages" which contain links to plugins, articles, presentations and other documentation for using Jenkins on that platform/toolchain.
+
+On the back of the postcard is a current map for regional Jenkins Area Meetups, a live version of this map can be shown/found at link:https://meetup.com/pro/jenkins[meetup.com/pro/jenkins].
+
+
+== Merchandise
+
+=== T-Shirts
+
+T-shirts are *not free* but are to be sold, all proceeds go directly to the Jenkins project, which is affiliated with Software in the Public Interest (link:http://spi-inc.org[spi-inc.org]) a 501(c)3 non-profit organization.
