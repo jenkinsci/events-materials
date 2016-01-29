@@ -3,6 +3,24 @@
 This document is intended to serve as a reference for Jenkins contributors
 helping to staff the stand at link:https://fosdem.org[FOSDEM].
 
+== Discussion Suggestions
+
+Since most people are, to some extent, aware of what Jenkins is here are some
+new things/ideas to talk about with people that they might find interesting:
+
+* Upcoming Jenkins 2.0 plans, some proposals are linked from
+  link:https://jenkins-ci.org/content/jenkins-20-proposals[jenkins-ci.org/content/jenkins-20-proposals]
+* The `Jenkinsfile` concept as a better way to manage both describing a
+  delivery pipeline, but also as a means of checking the job/pipeline
+  description into source control (instead of all the button clickies).
+* Jenkins Area Meetups, there are likely some local Jenkins meetups where
+  people can present and/or learn more. See
+  link:https://www.meetup.com/pro/jenkins[www.meetup.com/pro/jenkins] for a
+  full map
+* Ask about what complaints/problems they're encountering currently with
+  Jenkins, if possible suggest solutions or make sure they're aware of how they
+  can get help within the Jenkins community (users mailing list, IRC, etc)
+
 == Demo Laptop
 
 The demo Mac OS X is owned by link:https://www.cloudbees.com[CloudBees].
