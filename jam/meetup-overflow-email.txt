@@ -1,0 +1,11 @@
+Hello! I'm sending you this email because you have RSVPed to the [CITY] Jenkins Area Meetup
+we're hosting at [VENUE] ([URL]). We have a limited amount of space and there are people
+on the wait-list already!
+
+If you're not able to make it, please update your RSVP status so we
+can allow those on the wait-list to attend.
+
+For those that will be able to attend, I hope you're as excited as I am to
+hear about [TOPICS],
+
+Looking forward to seeing you there!
