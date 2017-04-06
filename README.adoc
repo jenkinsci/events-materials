@@ -24,7 +24,7 @@ All rights reserved by the content creators unless otherwise stated.
 | High-level overview of some plugins and tools which integrate Ruby projects into Jenkins
 
 | 2016-02
-| linK:https://docs.google.com/presentation/d/1hg25DBTTCwYp6OfOQ_BDVoAyjQMXnyQHvPqpPoaSL8o/edit?usp=sharing[Scaling Jenkins on Azure]
+| link:https://docs.google.com/presentation/d/1hg25DBTTCwYp6OfOQ_BDVoAyjQMXnyQHvPqpPoaSL8o/edit?usp=sharing[Scaling Jenkins on Azure]
 | link:https://github.com/rtyler[rtyler]
 | Introduction to using dynamic agents on Azure and Docker plugins for Jenkins
 
