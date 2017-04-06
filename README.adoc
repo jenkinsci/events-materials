@@ -1,0 +1,69 @@
+= Jenkins Events Materials
+
+This repository is meant to be the home for events materials such as proposals,
+re-usable presentations, and other such content.
+
+
+== Re-usable Presentations
+
+All rights reserved by the content creators unless otherwise stated.
+
+=== Meetups
+
+|===
+| Created | Title | Author | Notes
+
+| 2016-05
+| link:https://docs.google.com/presentation/d/1mVS2CRZhh12V4-Oi7PoL5gv9idGetEY09LORmgl1JyM/edit?usp=sharing[Hacking Jenkins]
+| link:https://github.com/rtyler[rtyler] and link:https://github.com/batmat[batmat]
+| "An introduction to making Jenkins better"
+
+| 2016-02
+| link:https://docs.google.com/presentation/d/13xdWaBqoz6UHINrE9C7LP3Xa8Fbol3krANjogdIuKDo/edit?usp=sharing[Jenkins <3 Ruby]
+| link:https://github.com/rtyler[rtyler]
+| High-level overview of some plugins and tools which integrate Ruby projects into Jenkins
+
+| 2016-02
+| linK:https://docs.google.com/presentation/d/1hg25DBTTCwYp6OfOQ_BDVoAyjQMXnyQHvPqpPoaSL8o/edit?usp=sharing[Scaling Jenkins on Azure]
+| link:https://github.com/rtyler[rtyler]
+| Introduction to using dynamic agents on Azure and Docker plugins for Jenkins
+
+|===
+
+=== Jenkins World 2016
+
+==== Open Source Hub Demos
+
+|===
+| Created | Title | Author | Notes
+
+| 2016-09
+| link:https://docs.google.com/presentation/d/1O7wOglLPZg24b78q5JYL-X1YIl3_ScdWZxDys846vcE/edit?usp=sharing[Jenkins and Docker]
+| link:https://github.com/rtyler[rtyler]
+| Overview of using Jenkins and Docker with the Docker Pipeline plugin
+
+| 2016-09
+| link:https://docs.google.com/presentation/d/1eqJe0QjfRd0yZVvyReXWG2yUbxU9SwdKn259amZ51xY/edit?usp=sharing[Converting "freestyle pipelines" to real Pipelines]
+| link:https://github.com/rtyler[rtyler]
+| Overview of switching from chained jobs to proper Jenkins Pipelines
+
+|===
+
+
+=== Jenkins Days 2016
+
+|===
+| Created | Title | Author | Notes
+
+| 2016-04
+| link:https://docs.google.com/presentation/d/1HpOEdiy0lrDkYvNiqICvdl7O-GEDxldj6TrOawU4rA0/edit?usp=sharing[Seven Habits of Highly Effective Jenkins Admins]
+| link:https://github.com/abayer[abayer] and link:https://github.com/rtyler[rtyler]
+|
+
+| 2016-04
+| link:https://docs.google.com/presentation/d/1PDNXMYFyvOgYFSP2zmB82cCGLFe0Vqw3-nXZ_wYmOBU/edit?usp=sharing[Building Pipelines with Jenkins 2.0]
+| link:https://github.com/rtyler[rtyler]
+|
+
+|===
+
