@@ -13,6 +13,11 @@ All rights reserved by the content creators unless otherwise stated.
 |===
 | Created | Title | Author | Notes
 
+| 2017-03
+| link:https://docs.google.com/presentation/d/1FKkraQdr4oxRephVnItUmOUe9pBeC0dRfZXCxqoubg0/view#slide=id.p[Continuous Delivery with Jenkins Pipeline]
+| link:https://github.com/mpailloncy[mpailloncy] and link:https://github.com/batmat[batmat]
+| Presentation used throughout this link:https://github.com/ToulouseJAM/workshop-resources[workshop around Jenkins Pipeline]
+
 | 2016-05
 | link:https://docs.google.com/presentation/d/1mVS2CRZhh12V4-Oi7PoL5gv9idGetEY09LORmgl1JyM/edit?usp=sharing[Hacking Jenkins]
 | link:https://github.com/rtyler[rtyler] and link:https://github.com/batmat[batmat]
