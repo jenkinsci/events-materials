@@ -72,3 +72,17 @@ All rights reserved by the content creators unless otherwise stated.
 
 |===
 
+
+== Re-usable Workshops
+
+|===
+| Created | Title | Author | Notes
+
+| 2017-06
+| link:https://github.com/ToulouseJAM/workshop-resources[Workshop to discover Jenkins Pipeline basics] with link:https://github.com/ToulouseJAM/jam-workshop-infra[Infrastructure provisioning files] associated
+| link:https://github.com/mpailloncy[mpailloncy] and link:https://github.com/batmat[batmat]
+| This workshop permits to discover Jenkins Pipeline (Scripted/Declarative Pipeline, BlueOcean, GitHub Organization Folder).
+
+A complete infrastructure is provided on top of DigitalOcean Cloud : one Jenkins instance with dynamic agents provisioning on demand, one SonarQube instance and two target environments (simulating staging/production) are available for each attendee.
+
+Infrastructure provisioning files can be reused independently.
