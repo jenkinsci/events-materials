@@ -8,6 +8,9 @@ re-usable presentations, and other such content.
 The Jenkins Area Meetup "Spread" is a monthly release
 intended to help JAM Organizers have fun, clear, consistent, and interesting meetups.
 To use it JAM organizers should copy the slide deck and customize the content to their JAM.
+Feedback and suggestions for improving the Spread should be sent to
+`jenkinsci-jam@googlegroups.com`
+or discussed in the #jenkins-community IRC channel.
 
 |===
 | Date | Link
