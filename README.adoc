@@ -12,13 +12,9 @@ Feedback and suggestions for improving the Spread should be sent to
 `jenkinsci-jam@googlegroups.com`
 or discussed in the #jenkins-community IRC channel.
 
-|===
-| Date | Link
+=== 2017
 
-| 2017-10
-| link:https://docs.google.com/presentation/d/1MUD3i9XZRzpD8WHk6mSjZsEbPkjqZ3sKvryYmIoER_U/edit?usp=sharing[link]
-
-|===
+* link:https://docs.google.com/presentation/d/1MUD3i9XZRzpD8WHk6mSjZsEbPkjqZ3sKvryYmIoER_U/edit?usp=sharing[October]
 
 
 == Re-usable Presentations
