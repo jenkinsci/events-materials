@@ -3,18 +3,19 @@
 This repository is meant to be the home for events materials such as proposals,
 re-usable presentations, and other such content.
 
-== JAM Spread
+== JAM Spread and CloudBees Hive
 
 The Jenkins Area Meetup "Spread" is a monthly release
 intended to help JAM Organizers have fun, clear, consistent, and interesting meetups.
 To use it JAM organizers should copy the slide deck and customize the content to their JAM.
-Feedback and suggestions for improving the Spread should be sent to
+The Hive is much much smaller and simpler.  It will include a set of slides highlighting something new and interesting created or offered by CloudBees.
+Feedback and suggestions for improving the Spread and the Hive should be sent to
 `jenkinsci-jam@googlegroups.com`
 or discussed in the #jenkins-community IRC channel.
 
 === 2017
 
-* link:https://docs.google.com/presentation/d/1MUD3i9XZRzpD8WHk6mSjZsEbPkjqZ3sKvryYmIoER_U/edit?usp=sharing[October]
+* October - link:https://goo.gl/91qZMu[Spread], link:https://goo.gl/PcTKh1[Hive]
 
 
 == Re-usable Presentations
