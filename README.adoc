@@ -17,6 +17,7 @@ or discussed in the #jenkins-community IRC channel.
 
 * October - link:https://goo.gl/91qZMu[Spread], link:https://goo.gl/PcTKh1[Hive]
 * November - link:https://goo.gl/NqsJyB[Spread]
+* December - link:https://goo.gl/mRpVxx[Spread], link:https://goo.gl/de3wq9[Hive]
 
 == Re-usable Presentations
 
