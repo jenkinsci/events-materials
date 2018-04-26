@@ -22,6 +22,9 @@ or discussed in the #jenkins-community IRC channel.
 === 2018
 
 * January - link:https://goo.gl/UHoqVf[Spread]
+* February - link:https://goo.gl/X1AAEJ[Spread]
+* April - link:https://goo.gl/2fZM1y[Spread]
+
 
 == Re-usable Presentations
 
